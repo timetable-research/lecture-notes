@@ -65,6 +65,7 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [DeepNeuralNetworks_Ch07 Convolutional Neural Networks and Architectures](<Mathematics/Deep-Neural-Networks/DeepNeuralNetworks_Ch07 Convolutional Neural Networks and Architectures.pdf>)
 - [DeepNeuralNetworks_Ch08 Universal Approximation, Barron's Theorem and Generalization](<Mathematics/Deep-Neural-Networks/DeepNeuralNetworks_Ch08 Universal Approximation, Barron's Theorem and Generalization.pdf>)
 - [DeepNeuralNetworks_Ch09 Recurrent Neural Networks and LSTM](<Mathematics/Deep-Neural-Networks/DeepNeuralNetworks_Ch09 Recurrent Neural Networks and LSTM.pdf>)
+- [DeepNeuralNetworks_Ch10 Attention and Transformers](<Mathematics/Deep-Neural-Networks/DeepNeuralNetworks_Ch10 Attention and Transformers.pdf>)
 - [DeepNeuralNetworks_Combined](<Mathematics/Deep-Neural-Networks/DeepNeuralNetworks_Combined.pdf>)
 
 ### Discrete Mathematics
