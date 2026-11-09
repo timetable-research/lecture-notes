@@ -66,6 +66,7 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [DeepNeuralNetworks_Ch08 Universal Approximation, Barron's Theorem and Generalization](<Mathematics/Deep-Neural-Networks/DeepNeuralNetworks_Ch08 Universal Approximation, Barron's Theorem and Generalization.pdf>)
 - [DeepNeuralNetworks_Ch09 Recurrent Neural Networks and LSTM](<Mathematics/Deep-Neural-Networks/DeepNeuralNetworks_Ch09 Recurrent Neural Networks and LSTM.pdf>)
 - [DeepNeuralNetworks_Ch10 Attention and Transformers](<Mathematics/Deep-Neural-Networks/DeepNeuralNetworks_Ch10 Attention and Transformers.pdf>)
+- [DeepNeuralNetworks_Ch11 Generative Models and Autoencoders](<Mathematics/Deep-Neural-Networks/DeepNeuralNetworks_Ch11 Generative Models and Autoencoders.pdf>)
 - [DeepNeuralNetworks_Ch8S Learning Error and Neural Network Approximation](<Mathematics/Deep-Neural-Networks/DeepNeuralNetworks_Ch8S Learning Error and Neural Network Approximation.pdf>)
 - [DeepNeuralNetworks_Combined](<Mathematics/Deep-Neural-Networks/DeepNeuralNetworks_Combined.pdf>)
 
