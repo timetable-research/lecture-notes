@@ -452,6 +452,9 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [SurvivalAnalysis_L08 Estimation of Basic Quantities for Other Sampling Schemes (Part 2)](<Statistics/Survival-Analysis/SurvivalAnalysis_L08 Estimation of Basic Quantities for Other Sampling Schemes (Part 2).pdf>)
 - [SurvivalAnalysis_L09 Hypothesis Testing (Part 1)](<Statistics/Survival-Analysis/SurvivalAnalysis_L09 Hypothesis Testing (Part 1).pdf>)
 - [SurvivalAnalysis_L10 Hypothesis Testing (Part 2)](<Statistics/Survival-Analysis/SurvivalAnalysis_L10 Hypothesis Testing (Part 2).pdf>)
+- [SurvivalAnalysis_L11 Cox Proportional Hazards Regression (Part 1)](<Statistics/Survival-Analysis/SurvivalAnalysis_L11 Cox Proportional Hazards Regression (Part 1).pdf>)
+- [SurvivalAnalysis_L12 Cox Proportional Hazards Regression (Part 2)](<Statistics/Survival-Analysis/SurvivalAnalysis_L12 Cox Proportional Hazards Regression (Part 2).pdf>)
+- [SurvivalAnalysis_L13 Refinements of the Proportional Hazards Model](<Statistics/Survival-Analysis/SurvivalAnalysis_L13 Refinements of the Proportional Hazards Model.pdf>)
 
 ### Time Series Analysis
 
