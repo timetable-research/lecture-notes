@@ -339,6 +339,7 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [Multivariate_Ch09 Factor Analysis](<Statistics/Multivariate-Analysis/Multivariate_Ch09 Factor Analysis.pdf>)
 - [Multivariate_Ch10 Discrimination and Classification](<Statistics/Multivariate-Analysis/Multivariate_Ch10 Discrimination and Classification.pdf>)
 - [Multivariate_Ch11 Cluster Analysis](<Statistics/Multivariate-Analysis/Multivariate_Ch11 Cluster Analysis.pdf>)
+- [Multivariate_Ch12 Identifiability of DAG Models](<Statistics/Multivariate-Analysis/Multivariate_Ch12 Identifiability of DAG Models.pdf>)
 - [Multivariate_Combined](<Statistics/Multivariate-Analysis/Multivariate_Combined.pdf>)
 - [Multivariate_Problems](<Statistics/Multivariate-Analysis/Multivariate_Problems.pdf>)
 - [Multivariate_Solutions](<Statistics/Multivariate-Analysis/Multivariate_Solutions.pdf>)
