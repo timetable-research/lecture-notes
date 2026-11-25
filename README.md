@@ -344,6 +344,7 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [Multivariate_Ch11 Cluster Analysis](<Statistics/Multivariate-Analysis/Multivariate_Ch11 Cluster Analysis.pdf>)
 - [Multivariate_Ch12 Identifiability of DAG Models](<Statistics/Multivariate-Analysis/Multivariate_Ch12 Identifiability of DAG Models.pdf>)
 - [Multivariate_Ch13 Regression with Measurement Error](<Statistics/Multivariate-Analysis/Multivariate_Ch13 Regression with Measurement Error.pdf>)
+- [Multivariate_Ch14 Probabilistic Graphical Models Directed and Undirected Models](<Statistics/Multivariate-Analysis/Multivariate_Ch14 Probabilistic Graphical Models Directed and Undirected Models.pdf>)
 - [Multivariate_Combined](<Statistics/Multivariate-Analysis/Multivariate_Combined.pdf>)
 - [Multivariate_Problems](<Statistics/Multivariate-Analysis/Multivariate_Problems.pdf>)
 - [Multivariate_Solutions](<Statistics/Multivariate-Analysis/Multivariate_Solutions.pdf>)
